@@ -1,4 +1,4 @@
-# Emeson_NS
+# EmesonNS
 
 ### Olá! Me chamo Emeson Neves Santos 👋
 
@@ -21,8 +21,8 @@
 
 ### 📈 Estatísticas
 
-![Emeson_NS GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emeson420&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emeson420&layout=compact&theme=tokyonight)
+![Emeson_NS GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmesonNS&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmesonNS&layout=compact&theme=tokyonight)
 
 ---
 
