@@ -19,10 +19,11 @@
 
 ---
 
-### 📈 Estatísticas
+## 📊 Estatísticas
 
-![Emeson_NS GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmesonNS&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmesonNS&layout=compact&theme=tokyonight)
+![Emeson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmesonNS&show_icons=true&theme=dracula&hide=issues,contribs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmesonNS&layout=compact&theme=dracula)
 
 ---
 
