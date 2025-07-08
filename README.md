@@ -1,6 +1,6 @@
 # EmesonNS
 
-### Olá! Me chamo Emeson Neves Santos 👋
+### Olá! Me chamo Emeson Santos 👋
 
 🎓 Estudante de Engenharia de Software  
 💻 Foco em Desenvolvimento **Back-End** e **Mobile**  
